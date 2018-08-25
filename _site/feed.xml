@@ -1,16 +1,144 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-23T15:55:35+08:00</updated><id>http://localhost:4000/</id><title type="html">刘宗尧的网络日志</title><subtitle>移动开发码农， 喜欢写作，分享， 投资</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2018/08/23/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-08-23T15:18:22+08:00</published><updated>2018-08-23T15:18:22+08:00</updated><id>http://localhost:4000/jekyll/update/2018/08/23/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/08/23/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-08-25T20:50:42+08:00</updated><id>http://localhost:4000/</id><title type="html">刘宗尧的网络日志</title><subtitle>移动开发码农， 喜欢写作，分享， 投资</subtitle><entry><title type="html">Mac 常用软件</title><link href="http://localhost:4000/%E6%97%A5%E5%B8%B8%E5%8A%9E%E5%85%AC/2018/08/25/mac-software.html" rel="alternate" type="text/html" title="Mac 常用软件" /><published>2018-08-25T20:41:22+08:00</published><updated>2018-08-25T20:41:22+08:00</updated><id>http://localhost:4000/%E6%97%A5%E5%B8%B8%E5%8A%9E%E5%85%AC/2018/08/25/mac-software</id><content type="html" xml:base="http://localhost:4000/%E6%97%A5%E5%B8%B8%E5%8A%9E%E5%85%AC/2018/08/25/mac-software.html">&lt;h3 id=&quot;软件下载和管理&quot;&gt;软件下载和管理&lt;/h3&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;appstore&lt;/li&gt;
+  &lt;li&gt;brew／brew cask&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;h3 id=&quot;日常办公&quot;&gt;日常办公&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;office 2016&lt;/li&gt;
+  &lt;li&gt;keynotes（PPT）， numbers（Excel）， pages（word）&lt;/li&gt;
+  &lt;li&gt;mac本身带的邮箱&lt;/li&gt;
+  &lt;li&gt;foxmail&lt;/li&gt;
+  &lt;li&gt;the-unarchiver 解压缩&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;编程&quot;&gt;编程&lt;/h3&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Android开发效率提升</title><link href="http://localhost:4000/2018/06/27/Android%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87.html" rel="alternate" type="text/html" title="Android开发效率提升" /><published>2018-06-27T00:00:00+08:00</published><updated>2018-06-27T00:00:00+08:00</updated><id>http://localhost:4000/2018/06/27/Android%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87</id><content type="html" xml:base="http://localhost:4000/2018/06/27/Android%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87.html">&lt;p&gt;Android开发效率提升-1&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;AndroidStudio&lt;/li&gt;
+  &lt;li&gt;eclipse&lt;/li&gt;
+  &lt;li&gt;xcode&lt;/li&gt;
+  &lt;li&gt;atom&lt;/li&gt;
+  &lt;li&gt;vim&lt;/li&gt;
+  &lt;li&gt;sublime Text&lt;/li&gt;
+  &lt;li&gt;beyondCompare&lt;/li&gt;
+  &lt;li&gt;Diffmerge&lt;/li&gt;
+  &lt;li&gt;MarkMan&lt;/li&gt;
+  &lt;li&gt;git（命令行）&lt;/li&gt;
+  &lt;li&gt;svn（命令行）&lt;/li&gt;
+  &lt;li&gt;sourceTree （代码管理图形界面）&lt;/li&gt;
+  &lt;li&gt;samrtGit&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;流程图&quot;&gt;流程图&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;omnigraffle （收费，功能强大）&lt;/li&gt;
+  &lt;li&gt;graphviz （免费， dot语言，特别是画状态图）&lt;/li&gt;
+  &lt;li&gt;ditaa （ txt 文本上画图）&lt;/li&gt;
+  &lt;li&gt;plantuml（常用，集成了ditaa和graphviz， 有androidstudio 和 eclipse插件，需要好好学习）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;交互设计&quot;&gt;交互设计&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;axture pro&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;图片处理和ui&quot;&gt;图片处理和UI&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;photoshop cc 2017(大型图片处理软件)&lt;/li&gt;
+  &lt;li&gt;picasso  （图片管理软件）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;电子书阅读和管理&quot;&gt;电子书阅读和管理&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;calibre&lt;/li&gt;
+  &lt;li&gt;kindle&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;效率提升和辅助&quot;&gt;效率提升和辅助&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;manico&lt;/li&gt;
+  &lt;li&gt;sizeup&lt;/li&gt;
+  &lt;li&gt;snip&lt;/li&gt;
+  &lt;li&gt;magicanrest&lt;/li&gt;
+  &lt;li&gt;xMind（可选：Mindnode，iThoughts，Mindjet）&lt;/li&gt;
+  &lt;li&gt;iTerm (加强命令行)&lt;/li&gt;
+  &lt;li&gt;Alfred （加强搜索）&lt;/li&gt;
+  &lt;li&gt;Wunderlist（未安装 记录待办事项，Clear，Any.do，Swipes，Gtasks ）&lt;/li&gt;
+  &lt;li&gt;Dayone （未安装 记录日记）&lt;/li&gt;
+  &lt;li&gt;Onenote （未安装 写书）&lt;/li&gt;
+  &lt;li&gt;Clear （未安装  灵感记录）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;阅读&quot;&gt;阅读&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;adobe-Reader&lt;/li&gt;
+  &lt;li&gt;feedly（订阅器） + reeder（阅读器，可以管理各种源，收费） 体验非常好,强烈推荐这个组合&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;视频播放和处理&quot;&gt;视频播放和处理&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;MplyerX （基本上播放所有格式的视频）&lt;/li&gt;
+  &lt;li&gt;quickTime （视频播放和录制）&lt;/li&gt;
+  &lt;li&gt;final cult pro（制作视频： 未装）&lt;/li&gt;
+  &lt;li&gt;Compressor （编辑导流：未装）&lt;/li&gt;
+  &lt;li&gt;Motion （字幕,未装）&lt;/li&gt;
+  &lt;li&gt;iMoive（自带）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;音乐&quot;&gt;音乐&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;qq音乐&lt;/li&gt;
+  &lt;li&gt;网络云音乐&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;下载工具和云盘&quot;&gt;下载工具和云盘&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;百度网盘&lt;/li&gt;
+  &lt;li&gt;腾讯微云&lt;/li&gt;
+  &lt;li&gt;小米路由器&lt;/li&gt;
+  &lt;li&gt;Downie （视频下载工具， 未装）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;知识整理和云备份&quot;&gt;知识整理和云备份&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;有道云笔记&lt;/li&gt;
+  &lt;li&gt;印象笔记&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;社交通讯&quot;&gt;社交通讯&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;qq&lt;/li&gt;
+  &lt;li&gt;微信&lt;/li&gt;
+  &lt;li&gt;iMessage&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;上网&quot;&gt;上网&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;safari&lt;/li&gt;
+  &lt;li&gt;chrome&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;公司办公必备&quot;&gt;公司办公必备&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;rtx&lt;/li&gt;
+  &lt;li&gt;ioa&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;虚拟机&quot;&gt;虚拟机&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Paralles Destop （未装）&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">软件下载和管理</summary></entry><entry><title type="html">Android开发效率提升</title><link href="http://localhost:4000/2018/06/27/Android%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87.html" rel="alternate" type="text/html" title="Android开发效率提升" /><published>2018-06-27T00:00:00+08:00</published><updated>2018-06-27T00:00:00+08:00</updated><id>http://localhost:4000/2018/06/27/Android%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87</id><content type="html" xml:base="http://localhost:4000/2018/06/27/Android%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87.html">&lt;p&gt;Android开发效率提升-1&lt;/p&gt;
 &lt;h1 id=&quot;起步---快捷键&quot;&gt;起步 - 快捷键&lt;/h1&gt;
 
 &lt;h1 id=&quot;来点光---livetemplate&quot;&gt;来点光 - LiveTemplate&lt;/h1&gt;
